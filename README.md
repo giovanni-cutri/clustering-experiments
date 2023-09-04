@@ -1,5 +1,5 @@
 # Clustering Experiments
- Some experimentation on cluster analysis using k-means algorithm.
+ Some experimentation on cluster analysis using *k*-means algorithm.
 
  Currently including clusterization of:
 
